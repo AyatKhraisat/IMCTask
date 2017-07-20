@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMCTask</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="user_name_et_hint">enter username here</string>
+    <string name="password_et_hint">enter password here</string>
+    <string name="button_sign_up">Sign Up</string>
+</resources>
