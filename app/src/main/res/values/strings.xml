@@ -6,4 +6,18 @@
     <string name="user_name_et_hint">enter username here</string>
     <string name="password_et_hint">enter password here</string>
     <string name="button_sign_up">Sign Up</string>
+    <string name="name_empty_error">User name is required </string>
+    <string name="password_empty_error">Password is required </string>
+    <string name="action_home">Home</string>
+    <string name="action_search">Search</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_like">Like</string>
+    <string name="user_name_frag">user name</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typsetting industry</string>
+    <string name="hello_Search_fragment">Search Fragment</string>
+    <string name="hello_Profile_fragment">Profile Fragment</string>
+    <string name="hello_like_fragment">Likes Fragment</string>
+    <string name="hello_camera_fragment">Camera Fragment</string>
+    <string name="logo_des">application logo</string>
 </resources>
